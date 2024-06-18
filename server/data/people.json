@@ -1,0 +1,212 @@
+[
+    {
+        "id": "1",
+        "name": "Денис Геннадьевич Кулков",
+        "aliases": [
+            "Try2Check",
+            "Kreenjo",
+            "Nordex",
+            "Nordekin"
+        ],
+        "dob": "8 апреля 1980 г.",
+        "nationality": "Россия",
+        "citizenship": "Россия",
+        "height": "5 футов 7 дюймов",
+        "weight": "170 фунтов",
+        "hairColor": "Черный/каштановые",
+        "eyeColor": "Коричневый",
+        "office": "Нью-Йорк",
+        "imageUrl": "IEREMENKO.jpg",
+        "description": "Описание Дениса Геннадьевича Кулкова",
+        "caseSummary": "С 31 марта 2022 года прокуратура США по Восточному округу Нью-Йорка рассматривает обвинительное заключение по четырем пунктам обвинения Дениса Геннадьевича Кулкова в мошенничестве с устройствами доступа, мошенничестве в связи с использованием и созданием поддельных документов..."
+    },
+    {
+        "id": "2",
+        "name": "Алексей Иванович Смирнов",
+        "aliases": [
+            "HackerX",
+            "DarkByte",
+            "Phantom",
+            "ShadowWalker"
+        ],
+        "dob": "12 января 1992 г.",
+        "nationality": "Россия",
+        "citizenship": "Россия",
+        "height": "6 футов 2 дюйма",
+        "weight": "185 фунтов",
+        "hairColor": "Светло-русый",
+        "eyeColor": "Голубой",
+        "office": "Москва",
+        "imageUrl": "kovalev.jpg",
+        "description": "Описание Алексея Ивановича Смирнова",
+        "caseSummary": "С 18 октября 2023 года следственным комитетом Российской Федерации ведется расследование по делу об хакерских атаках и киберпреступлениях, в которых подозревается Алексей Иванович Смирнов. Ему предъявлены обвинения в несанкционированном доступе к компьютерной информации, создании и распространении вредоносного программного обеспечения..."
+    },
+    {
+        "id": "3",
+        "name": "Елена Сергеевна Петрова",
+        "aliases": [
+            "BlackWidow",
+            "CyberQueen",
+            "DigitalSphinx",
+            "TechMage"
+        ],
+        "dob": "3 мая 1985 г.",
+        "nationality": "Россия",
+        "citizenship": "Россия",
+        "height": "5 футов 6 дюймов",
+        "weight": "150 фунтов",
+        "hairColor": "Рыжий",
+        "eyeColor": "Зеленый",
+        "office": "Санкт-Петербург",
+        "imageUrl": "RADCHENKO.jpg",
+        "description": "Описание Елены Сергеевны Петровой",
+        "caseSummary": "С 7 сентября 2024 года Федеральная служба безопасности Российской Федерации проводит расследование по делу о кибершпионаже и утечке государственной информации, в которых подозревается Елена Сергеевна Петрова. Ей предъявлены обвинения в несанкционированном доступе к компьютерным системам, хищении конфиденциальных данных и их передаче третьим лицам..."
+    },
+    {
+        "id": "4",
+        "name": "John Smith",
+        "aliases": [
+            "CyberGhost",
+            "PhantomHacker",
+            "TechWizard",
+            "ByteMaster"
+        ],
+        "dob": "20 November 1988",
+        "nationality": "United States",
+        "citizenship": "United States",
+        "height": "6 feet 0 inches",
+        "weight": "180 pounds",
+        "hairColor": "Brown",
+        "eyeColor": "Blue",
+        "office": "Los Angeles",
+        "imageUrl": "kulkov.png",
+        "description": "Description of John Smith",
+        "caseSummary": "Since May 15, 2023, the Federal Bureau of Investigation (FBI) has been investigating John Smith for his alleged involvement in a major cyber attack targeting financial institutions. He is facing charges of hacking into secure networks, stealing sensitive financial data, and orchestrating large-scale fraud schemes..."
+    },
+    {
+        "id": "5",
+        "name": "Sophie Martin",
+        "aliases": [
+            "CyberSiren",
+            "TechGoddess",
+            "CodeNinja",
+            "BinaryQueen"
+        ],
+        "dob": "10 July 1990",
+        "nationality": "France",
+        "citizenship": "France",
+        "height": "5 feet 8 inches",
+        "weight": "140 pounds",
+        "hairColor": "Blonde",
+        "eyeColor": "Green",
+        "office": "Paris",
+        "imageUrl": "stroganov.jpeg",
+        "description": "Description of Sophie Martin",
+        "caseSummary": "The French National Gendarmerie has been investigating Sophie Martin since September 1, 2023, in connection with a series of cyber attacks targeting government institutions. She is accused of unauthorized access to classified information, cyber espionage, and sabotage of critical infrastructure..."
+    },
+    {
+        "id": "6",
+        "name": "Денис Геннадьевич Кулков",
+        "aliases": [
+            "Try2Check",
+            "Kreenjo",
+            "Nordex",
+            "Nordekin"
+        ],
+        "dob": "8 апреля 1980 г.",
+        "nationality": "Россия",
+        "citizenship": "Россия",
+        "height": "5 футов 7 дюймов",
+        "weight": "170 фунтов",
+        "hairColor": "Черный/каштановые",
+        "eyeColor": "Коричневый",
+        "office": "Нью-Йорк",
+        "imageUrl": "IEREMENKO.jpg",
+        "description": "Описание Дениса Геннадьевича Кулкова",
+        "caseSummary": "С 31 марта 2022 года прокуратура США по Восточному округу Нью-Йорка рассматривает обвинительное заключение по четырем пунктам обвинения Дениса Геннадьевича Кулкова в мошенничестве с устройствами доступа, мошенничестве в связи с использованием и созданием поддельных документов..."
+    },
+    {
+        "id": "7",
+        "name": "Алексей Иванович Смирнов",
+        "aliases": [
+            "HackerX",
+            "DarkByte",
+            "Phantom",
+            "ShadowWalker"
+        ],
+        "dob": "12 января 1992 г.",
+        "nationality": "Россия",
+        "citizenship": "Россия",
+        "height": "6 футов 2 дюйма",
+        "weight": "185 фунтов",
+        "hairColor": "Светло-русый",
+        "eyeColor": "Голубой",
+        "office": "Москва",
+        "imageUrl": "kovalev.jpg",
+        "description": "Описание Алексея Ивановича Смирнова",
+        "caseSummary": "С 18 октября 2023 года следственным комитетом Российской Федерации ведется расследование по делу об хакерских атаках и киберпреступлениях, в которых подозревается Алексей Иванович Смирнов. Ему предъявлены обвинения в несанкционированном доступе к компьютерной информации, создании и распространении вредоносного программного обеспечения..."
+    },
+    {
+        "id": "8",
+        "name": "Елена Сергеевна Петрова",
+        "aliases": [
+            "BlackWidow",
+            "CyberQueen",
+            "DigitalSphinx",
+            "TechMage"
+        ],
+        "dob": "3 мая 1985 г.",
+        "nationality": "Россия",
+        "citizenship": "Россия",
+        "height": "5 футов 6 дюймов",
+        "weight": "150 фунтов",
+        "hairColor": "Рыжий",
+        "eyeColor": "Зеленый",
+        "office": "Санкт-Петербург",
+        "imageUrl": "RADCHENKO.jpg",
+        "description": "Описание Елены Сергеевны Петровой",
+        "caseSummary": "С 7 сентября 2024 года Федеральная служба безопасности Российской Федерации проводит расследование по делу о кибершпионаже и утечке государственной информации, в которых подозревается Елена Сергеевна Петрова. Ей предъявлены обвинения в несанкционированном доступе к компьютерным системам, хищении конфиденциальных данных и их передаче третьим лицам..."
+    },
+    {
+        "id": "9",
+        "name": "John Smith",
+        "aliases": [
+            "CyberGhost",
+            "PhantomHacker",
+            "TechWizard",
+            "ByteMaster"
+        ],
+        "dob": "20 November 1988",
+        "nationality": "United States",
+        "citizenship": "United States",
+        "height": "6 feet 0 inches",
+        "weight": "180 pounds",
+        "hairColor": "Brown",
+        "eyeColor": "Blue",
+        "office": "Los Angeles",
+        "imageUrl": "kulkov.png",
+        "description": "Description of John Smith",
+        "caseSummary": "Since May 15, 2023, the Federal Bureau of Investigation (FBI) has been investigating John Smith for his alleged involvement in a major cyber attack targeting financial institutions. He is facing charges of hacking into secure networks, stealing sensitive financial data, and orchestrating large-scale fraud schemes..."
+    },
+    {
+        "id": "10",
+        "name": "Sophie Martin",
+        "aliases": [
+            "CyberSiren",
+            "TechGoddess",
+            "CodeNinja",
+            "BinaryQueen"
+        ],
+        "dob": "10 July 1990",
+        "nationality": "France",
+        "citizenship": "France",
+        "height": "5 feet 8 inches",
+        "weight": "140 pounds",
+        "hairColor": "Blonde",
+        "eyeColor": "Green",
+        "office": "Paris",
+        "imageUrl": "stroganov.jpeg",
+        "description": "Description of Sophie Martin",
+        "caseSummary": "The French National Gendarmerie has been investigating Sophie Martin since September 1, 2023, in connection with a series of cyber attacks targeting government institutions. She is accused of unauthorized access to classified information, cyber espionage, and sabotage of critical infrastructure..."
+    }
+]

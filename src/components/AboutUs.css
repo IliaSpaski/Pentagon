@@ -1,0 +1,64 @@
+.about-us {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .about-us h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .about-us .description {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+  }
+  
+  .about-us .description .highlight {
+    color: #c00;
+    font-weight: bold;
+  }
+  
+  .about-us .stars {
+    color: gold;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .sections {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .section {
+    width: 30%;
+    margin: 20px 0;
+    text-align: left;
+  }
+  
+  .section img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .section .content {
+    padding: 10px;
+  }
+  
+  .section h3 {
+    font-size: 1.5em;
+    margin: 10px 0;
+  }
+  
+  .section .stars {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  
+  .section p {
+    font-size: 1em;
+  }
+  .stars{
+    text-align: center;
+  }

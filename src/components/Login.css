@@ -1,0 +1,46 @@
+
+.fbi-logo {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.fbi-input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: #0c2340c7;
+  color: white;
+}
+
+.fbi-button {
+  border: 2px solid #ff0000;
+  border-radius: 5px;
+  background-color: rgb(255, 0, 0);
+  text-align: center;
+  padding: 10px 20px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.fbi-button:hover {
+  background-color: #cc0000;
+}
+
+.fbi-disclaimer {
+    font-size: 12px;
+    margin-bottom: 15px;
+    background-color: rgba(0, 0, 139, 0.445);
+  }
+
+.fbi-form {
+    text-align: center;
+    color: #fff;
+    padding: 40px;
+    margin: 0% 25% 0% 25%;
+    border-radius: 5px;
+    background-color: #0000007e;
+  }
